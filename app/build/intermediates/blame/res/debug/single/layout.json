@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tip_calculator.xml",
+        "source": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_twopane_port.xml",
+        "source": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_main_twopane_port.xml"
+    },
+    {
+        "merged": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_twopane_land.xml",
+        "source": "C:\\Users\\660252306\\Downloads\\and2_allfiles\\android\\ex_starts\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_main_twopane_land.xml"
+    }
+]
